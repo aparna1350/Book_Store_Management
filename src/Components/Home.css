@@ -1,0 +1,24 @@
+#container
+{
+    background-image:url("https://img.freepik.com/free-photo/flat-lay-bookmark-books-assortment_23-2149894329.jpg?size=626&ext=jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style:ridge;
+    border-color: black;
+}
+#addbtn
+{
+    background-color:seagreen;
+}
+#viewbtn
+{
+    background-color: brown;
+}
+#actions
+{
+    background-color: rgb(197, 190, 165);
+}
+#table
+{
+    background-color:beige;
+}
